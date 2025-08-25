@@ -59,11 +59,6 @@ This highlights **real-world fraud detection challenges** where false negatives 
 
 ---
 
-## 📂 Repository Structure
-├── claims.csv # Dataset
-├── fraud_detection.ipynb # Jupyter notebook with full workflow
-├── README.md # Project documentation (this file)
-
 ---
 
 ## ✨ Key Takeaways
